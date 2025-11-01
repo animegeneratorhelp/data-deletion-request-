@@ -1,6 +1,7 @@
 🧾 DATA DELETION REQUEST
 
 Developer: Şifreli Eğitim
+
 App Name: Anime Collection RPG
 
 If you want to delete your account or any personal data associated with Anime Collection RPG, please contact us directly via email at:
